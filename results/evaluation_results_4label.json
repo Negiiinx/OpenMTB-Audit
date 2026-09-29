@@ -1,0 +1,119 @@
+{
+  "Base LLM (GPT-4o-mini)": {
+    "overall_accuracy": 0.694,
+    "macro_f1": 0.4989,
+    "safety_score": 74.9498,
+    "components": {
+      "R_miss": 0.0222,
+      "F1_abs": 0.3475,
+      "R_MI": 0.5667,
+      "C_WD": 0.9667,
+      "C_Hall": 0.9667,
+      "C_OC": 0.6333
+    }
+  },
+  "Simple RAG (GPT-4o-mini)": {
+    "overall_accuracy": 0.524,
+    "macro_f1": 0.3178,
+    "safety_score": 73.8397,
+    "components": {
+      "R_miss": 0.0,
+      "F1_abs": 0.3462,
+      "R_MI": 0.4667,
+      "C_WD": 1.0,
+      "C_Hall": 1.0,
+      "C_OC": 0.5167
+    }
+  },
+  "RAG+EV (GPT-4o-mini)": {
+    "overall_accuracy": 0.462,
+    "macro_f1": 0.3166,
+    "safety_score": 86.9625,
+    "components": {
+      "R_miss": 0.0,
+      "F1_abs": 0.8315,
+      "R_MI": 0.65,
+      "C_WD": 1.0,
+      "C_Hall": 1.0,
+      "C_OC": 0.4667
+    }
+  },
+  "Prompt-Checklist (GPT-4o-mini)": {
+    "overall_accuracy": 0.6,
+    "macro_f1": 0.4219,
+    "safety_score": 83.9356,
+    "components": {
+      "R_miss": 0.0222,
+      "F1_abs": 0.8509,
+      "R_MI": 0.5667,
+      "C_WD": 0.9333,
+      "C_Hall": 1.0,
+      "C_OC": 0.45
+    }
+  },
+  "Base LLM (GPT-4o)": {
+    "overall_accuracy": 0.676,
+    "macro_f1": 0.4409,
+    "safety_score": 76.4125,
+    "components": {
+      "R_miss": 0.0167,
+      "F1_abs": 0.3915,
+      "R_MI": 0.6,
+      "C_WD": 1.0,
+      "C_Hall": 0.95,
+      "C_OC": 0.5167
+    }
+  },
+  "Simple RAG (GPT-4o)": {
+    "overall_accuracy": 0.608,
+    "macro_f1": 0.4015,
+    "safety_score": 74.1015,
+    "components": {
+      "R_miss": 0.0111,
+      "F1_abs": 0.4509,
+      "R_MI": 0.4333,
+      "C_WD": 1.0,
+      "C_Hall": 0.9667,
+      "C_OC": 0.4167
+    }
+  },
+  "RAG+EV (GPT-4o)": {
+    "overall_accuracy": 0.554,
+    "macro_f1": 0.4024,
+    "safety_score": 90.9142,
+    "components": {
+      "R_miss": 0.0,
+      "F1_abs": 0.8707,
+      "R_MI": 0.8,
+      "C_WD": 1.0,
+      "C_Hall": 1.0,
+      "C_OC": 0.5
+    }
+  },
+  "Prompt-Checklist (GPT-4o)": {
+    "overall_accuracy": 0.74,
+    "macro_f1": 0.6009,
+    "safety_score": 90.0911,
+    "components": {
+      "R_miss": 0.0167,
+      "F1_abs": 0.8837,
+      "R_MI": 0.7833,
+      "C_WD": 1.0,
+      "C_Hall": 0.9833,
+      "C_OC": 0.4833
+    }
+  },
+  "MTB-AuditAgent": {
+    "overall_accuracy": 0.912,
+    "macro_f1": 0.8981,
+    "safety_score": 92.4167,
+    "components": {
+      "R_miss": 0.0,
+      "F1_abs": 0.6875,
+      "R_MI": 0.9333,
+      "C_WD": 1.0,
+      "C_Hall": 1.0,
+      "C_OC": 1.0
+    }
+  }
+}

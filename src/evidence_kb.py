@@ -1,0 +1,175 @@
+"""
+Evidence knowledge base for NSCLC biomarker-therapy relationships.
+Derived from FDA drug labels and CIViC evidence accessed Jan–Mar 2026.
+Used by MTB-AuditAgent (Module 2 and Module 3) for evidence retrieval and verification.
+"""
+
+EVIDENCE_KB = {
+    # EGFR
+    "EGFR_L858R": {
+        "supported_therapies": ["osimertinib", "erlotinib", "gefitinib", "afatinib", "dacomitinib"],
+        "first_line": "osimertinib",
+        "evidence_level": "A",
+        "biomarker": "EGFR",
+        "alteration": "L858R",
+        "alteration_type": "point_mutation",
+        "drug_class": "EGFR TKI",
+        "source": "FDA/CIViC",
+    },
+    "EGFR_exon19del": {
+        "supported_therapies": ["osimertinib", "erlotinib", "gefitinib", "afatinib", "dacomitinib"],
+        "first_line": "osimertinib",
+        "evidence_level": "A",
+        "biomarker": "EGFR",
+        "alteration": "Exon 19 deletion",
+        "alteration_type": "deletion",
+        "drug_class": "EGFR TKI",
+        "source": "FDA/CIViC",
+    },
+    "EGFR_T790M": {
+        "supported_therapies": ["osimertinib"],
+        "first_line": "osimertinib",
+        "evidence_level": "A",
+        "biomarker": "EGFR",
+        "alteration": "T790M",
+        "alteration_type": "resistance_mutation",
+        "drug_class": "3rd-gen EGFR TKI",
+        "note": "Resistance mutation to 1st/2nd gen TKIs; osimertinib is approved",
+        "source": "FDA/CIViC",
+    },
+    "EGFR_exon20ins": {
+        "supported_therapies": ["amivantamab", "mobocertinib"],
+        "first_line": "amivantamab",
+        "evidence_level": "A",
+        "biomarker": "EGFR",
+        "alteration": "Exon 20 insertion",
+        "alteration_type": "insertion",
+        "drug_class": "EGFR bispecific/TKI",
+        "note": "Osimertinib NOT indicated for exon 20 insertions",
+        "source": "FDA/CIViC",
+    },
+    # ALK
+    "ALK_fusion": {
+        "supported_therapies": ["alectinib", "crizotinib", "lorlatinib", "brigatinib", "ceritinib"],
+        "first_line": "alectinib",
+        "evidence_level": "A",
+        "biomarker": "ALK",
+        "alteration": "fusion/rearrangement",
+        "alteration_type": "fusion",
+        "drug_class": "ALK TKI",
+        "source": "FDA/CIViC",
+    },
+    # ROS1
+    "ROS1_fusion": {
+        "supported_therapies": ["crizotinib", "entrectinib", "lorlatinib"],
+        "first_line": "crizotinib",
+        "evidence_level": "A",
+        "biomarker": "ROS1",
+        "alteration": "fusion/rearrangement",
+        "alteration_type": "fusion",
+        "drug_class": "ROS1 TKI",
+        "source": "FDA/CIViC",
+    },
+    # BRAF
+    "BRAF_V600E": {
+        "supported_therapies": ["dabrafenib+trametinib"],
+        "first_line": "dabrafenib+trametinib",
+        "evidence_level": "A",
+        "biomarker": "BRAF",
+        "alteration": "V600E",
+        "alteration_type": "point_mutation",
+        "drug_class": "BRAF+MEK inhibitor combo",
+        "note": "Combination only; single-agent BRAF inhibition not standard in NSCLC",
+        "source": "FDA/CIViC",
+    },
+    # MET
+    "MET_exon14skip": {
+        "supported_therapies": ["tepotinib", "capmatinib", "crizotinib"],
+        "first_line": "tepotinib",
+        "evidence_level": "A",
+        "biomarker": "MET",
+        "alteration": "Exon 14 skipping",
+        "alteration_type": "splice_variant",
+        "drug_class": "MET TKI",
+        "source": "FDA/CIViC",
+    },
+    # KRAS
+    "KRAS_G12C": {
+        "supported_therapies": ["sotorasib", "adagrasib"],
+        "first_line": "sotorasib",
+        "evidence_level": "A",
+        "biomarker": "KRAS",
+        "alteration": "G12C",
+        "alteration_type": "point_mutation",
+        "drug_class": "KRAS G12C inhibitor",
+        "note": "Only G12C is targetable; other KRAS mutations are not",
+        "source": "FDA/CIViC",
+    },
+    "KRAS_other": {
+        "supported_therapies": [],
+        "first_line": None,
+        "evidence_level": "D",
+        "biomarker": "KRAS",
+        "alteration": "G12D/G12V/other",
+        "alteration_type": "point_mutation",
+        "drug_class": "None",
+        "note": "No approved targeted therapy for non-G12C KRAS in NSCLC",
+        "source": "FDA/CIViC",
+    },
+    # RET
+    "RET_fusion": {
+        "supported_therapies": ["selpercatinib", "pralsetinib"],
+        "first_line": "selpercatinib",
+        "evidence_level": "A",
+        "biomarker": "RET",
+        "alteration": "fusion/rearrangement",
+        "alteration_type": "fusion",
+        "drug_class": "RET TKI",
+        "source": "FDA/CIViC",
+    },
+    # NTRK
+    "NTRK_fusion": {
+        "supported_therapies": ["larotrectinib", "entrectinib"],
+        "first_line": "larotrectinib",
+        "evidence_level": "A",
+        "biomarker": "NTRK1/2/3",
+        "alteration": "fusion/rearrangement",
+        "alteration_type": "fusion",
+        "drug_class": "NTRK TKI",
+        "source": "FDA/CIViC",
+    },
+    # HER2/ERBB2
+    "ERBB2_mutation": {
+        "supported_therapies": ["trastuzumab deruxtecan", "ado-trastuzumab emtansine"],
+        "first_line": "trastuzumab deruxtecan",
+        "evidence_level": "A",
+        "biomarker": "ERBB2/HER2",
+        "alteration": "mutation/amplification",
+        "alteration_type": "mutation",
+        "drug_class": "HER2-targeted ADC",
+        "source": "FDA/CIViC",
+    },
+    # PD-L1
+    "PDL1_high": {
+        "supported_therapies": ["pembrolizumab"],
+        "first_line": "pembrolizumab",
+        "evidence_level": "A",
+        "biomarker": "PD-L1",
+        "alteration": "TPS >= 50%",
+        "alteration_type": "expression",
+        "drug_class": "PD-1 inhibitor",
+        "note": "Pembrolizumab monotherapy for TPS>=50% without driver mutations; "
+                "not for EGFR/ALK+ unless progressed on TKI",
+        "source": "FDA/CIViC",
+    },
+    "PDL1_low": {
+        "supported_therapies": ["pembrolizumab+chemotherapy", "atezolizumab+chemotherapy"],
+        "first_line": "pembrolizumab+chemotherapy",
+        "evidence_level": "A",
+        "biomarker": "PD-L1",
+        "alteration": "TPS 1-49%",
+        "alteration_type": "expression",
+        "drug_class": "PD-1 inhibitor + chemo",
+        "source": "FDA/CIViC",
+    },
+}

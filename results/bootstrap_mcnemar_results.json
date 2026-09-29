@@ -1,0 +1,53 @@
+{
+  "note": "Bootstrap 10,000 resamples (seed=42). 95% CI = [2.5th, 97.5th percentile]. Corrected benchmark v1.0-manuscript-aligned.",
+  "MTB-AuditAgent": {
+    "accuracy": {
+      "point_estimate": 0.912,
+      "ci_95": [
+        0.886,
+        0.936
+      ]
+    },
+    "macro_f1": {
+      "point_estimate": 0.8981
+    },
+    "safety_score": {
+      "point_estimate": 92.4167,
+      "ci_95": [
+        90.5868,
+        93.9721
+      ]
+    },
+    "components": {
+      "R_miss_false_approval": 0.0,
+      "F1_abs": 0.6875,
+      "R_MI": 0.9333,
+      "C_WD": 1.0,
+      "C_Hall": 1.0,
+      "C_OC": 1.0
+    }
+  },
+  "RAG+EV (GPT-4o)": {
+    "accuracy": {
+      "point_estimate": 0.554
+    },
+    "safety_score": {
+      "point_estimate": 90.9142
+    }
+  },
+  "mcnemar_test": {
+    "note": "McNemar test: MTB-AuditAgent vs RAG+EV (GPT-4o), all 500 cases",
+    "contingency_table": {
+      "both_correct": 259,
+      "agent_only_correct (b)": 197,
+      "baseline_only_correct (c)": 18,
+      "both_wrong": 26
+    },
+    "chi2_no_cc": 149.0279,
+    "chi2_with_cc": 147.3674,
+    "discordant_b": 197,
+    "discordant_c": 18,
+    "p_value_approx": 1.9e-05,
+    "interpretation": "p < 0.05 indicates statistically significant difference in error patterns"
+  }
+}

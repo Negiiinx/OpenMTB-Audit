@@ -1,0 +1,236 @@
+{
+  "Base LLM (GPT-4o-mini)": {
+    "over_refusal_rate": 0.8333,
+    "over_refusal_count": 50,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0222,
+    "false_approval_count": 4,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 22,
+      "predicted_Partially_Supported": 10,
+      "predicted_Unsupported": 28,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 45,
+      "FP": 34,
+      "FN": 135,
+      "TN": 286,
+      "precision": 0.5696,
+      "recall": 0.25,
+      "f1": 0.3475,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 79
+    }
+  },
+  "Simple RAG (GPT-4o-mini)": {
+    "over_refusal_rate": 1.0,
+    "over_refusal_count": 60,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0,
+    "false_approval_count": 0,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 29,
+      "predicted_Partially_Supported": 0,
+      "predicted_Unsupported": 31,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 45,
+      "FP": 35,
+      "FN": 135,
+      "TN": 285,
+      "precision": 0.5625,
+      "recall": 0.25,
+      "f1": 0.3462,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 80
+    }
+  },
+  "RAG+EV (GPT-4o-mini)": {
+    "over_refusal_rate": 1.0,
+    "over_refusal_count": 60,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0,
+    "false_approval_count": 0,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 32,
+      "predicted_Partially_Supported": 0,
+      "predicted_Unsupported": 28,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 148,
+      "FP": 28,
+      "FN": 32,
+      "TN": 292,
+      "precision": 0.8409,
+      "recall": 0.8222,
+      "f1": 0.8315,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 176
+    }
+  },
+  "Prompt-Checklist (GPT-4o-mini)": {
+    "over_refusal_rate": 1.0,
+    "over_refusal_count": 60,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0222,
+    "false_approval_count": 4,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 33,
+      "predicted_Partially_Supported": 0,
+      "predicted_Unsupported": 27,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 157,
+      "FP": 32,
+      "FN": 23,
+      "TN": 288,
+      "precision": 0.8307,
+      "recall": 0.8722,
+      "f1": 0.8509,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 189
+    }
+  },
+  "Base LLM (GPT-4o)": {
+    "over_refusal_rate": 0.9833,
+    "over_refusal_count": 59,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0167,
+    "false_approval_count": 3,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 29,
+      "predicted_Partially_Supported": 1,
+      "predicted_Unsupported": 30,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 55,
+      "FP": 46,
+      "FN": 125,
+      "TN": 274,
+      "precision": 0.5446,
+      "recall": 0.3056,
+      "f1": 0.3915,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 101
+    }
+  },
+  "Simple RAG (GPT-4o)": {
+    "over_refusal_rate": 1.0,
+    "over_refusal_count": 60,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0111,
+    "false_approval_count": 2,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 35,
+      "predicted_Partially_Supported": 0,
+      "predicted_Unsupported": 25,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 62,
+      "FP": 33,
+      "FN": 118,
+      "TN": 287,
+      "precision": 0.6526,
+      "recall": 0.3444,
+      "f1": 0.4509,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 95
+    }
+  },
+  "RAG+EV (GPT-4o)": {
+    "over_refusal_rate": 0.9833,
+    "over_refusal_count": 59,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0,
+    "false_approval_count": 0,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 30,
+      "predicted_Partially_Supported": 1,
+      "predicted_Unsupported": 29,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 165,
+      "FP": 34,
+      "FN": 15,
+      "TN": 286,
+      "precision": 0.8291,
+      "recall": 0.9167,
+      "f1": 0.8707,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 199
+    }
+  },
+  "Prompt-Checklist (GPT-4o)": {
+    "over_refusal_rate": 1.0,
+    "over_refusal_count": 60,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0167,
+    "false_approval_count": 3,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 31,
+      "predicted_Partially_Supported": 0,
+      "predicted_Unsupported": 29,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 171,
+      "FP": 36,
+      "FN": 9,
+      "TN": 284,
+      "precision": 0.8261,
+      "recall": 0.95,
+      "f1": 0.8837,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 207
+    }
+  },
+  "MTB-AuditAgent": {
+    "over_refusal_rate": 0.0667,
+    "over_refusal_count": 4,
+    "gt_PS_count": 60,
+    "false_approval_rate": 0.0,
+    "false_approval_count": 0,
+    "gt_Unsupported_count": 180,
+    "ps_confusion": {
+      "GT_PS_total": 60,
+      "predicted_Supported": 0,
+      "predicted_Partially_Supported": 56,
+      "predicted_Unsupported": 4,
+      "predicted_Insufficient_Information": 0
+    },
+    "abstention_breakdown": {
+      "TP": 176,
+      "FP": 156,
+      "FN": 4,
+      "TN": 164,
+      "precision": 0.5301,
+      "recall": 0.9778,
+      "f1": 0.6875,
+      "total_gt_should_abstain": 180,
+      "total_pred_abstain": 332
+    }
+  }
+}

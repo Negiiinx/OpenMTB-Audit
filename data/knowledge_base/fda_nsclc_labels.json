@@ -1,0 +1,274 @@
+[
+  {
+    "drug_name": "osimertinib",
+    "brand_name": "Tagrisso",
+    "biomarker": "EGFR",
+    "alterations": [
+      "L858R",
+      "exon 19 deletion",
+      "T790M"
+    ],
+    "indications": "1 INDICATIONS AND USAGE TAGRISSO is a kinase inhibitor indicated for: \u2022 adjuvant therapy after tumor resection in adult patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test. ( 1.1 , 2.2 ) \u2022 the treatment of adult patients with locally advanced, unresectable (stage III) NSCLC whose disease has not progressed during or following concurrent or sequential platinum-based chemoradiation therapy and whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test. ( 1.2 , 2.2 ) \u2022 the first-line treatment of adult patients with metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test. ( 1.3 , 2.2 ) \u2022 in combination with pemetrexed and platinum-based chemotherapy, the first-line treatment of adult patients with locally advanced or metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations, as detected by an FDA-approved test. ( 1.4 , 2.2 ) \u2022 the treatment of adult patients with metastatic EGFR T790M mutation-positive NSCLC, as detected by an FDA-approved test, whose disease has progressed on or after EGFR TKI therapy. ( 1.5 , 2.2 ) 1.1 Adjuvant Treatment of EGFR Mutation-Positive Non-Small Cell Lung Cancer (NSCLC) TAGRISSO is indicated as adjuvant therapy after tumor resection in adult patients with non-small cell lung can",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS \u2022 Interstitial Lung Disease (ILD)/Pneumonitis : Monitor for new or worsening pulmonary symptoms indicative of ILD/pneumonitis. For patients receiving TAGRISSO who have not received recent definite platinum-based chemoradiation therapy, permanently discontinue TAGRISSO in patients diagnosed with ILD/Pneumonitis. For patients who received recent definitive platinum-based chemoradiation therapy with Grade 1 ILD/pneumonitis continue TAGRISSO or interrupt and restart, as ap",
+    "mechanism": "12.1 Mechanism of Action Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletions) at approximately 9-fold lower concentrations than wild-type. Two pharmacologically-active metabolites (AZ7550 and AZ5104 circulating at approximately 10% of the parent) with similar inhibitory profiles to osimertinib have been identified in the plasma after oral administration of osimertinib. AZ75",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "erlotinib",
+    "brand_name": "Tarceva",
+    "biomarker": "EGFR",
+    "alterations": [
+      "L858R",
+      "exon 19 deletion"
+    ],
+    "indications": "1 INDICATIONS AND USAGE Erlotinib tablet is a kinase inhibitor indicated for: The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving \ufb01rst-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen ( 1.1 ) First-line treatment of patients with locally advanced, unrespectable or metastatic pancreatic cancer, in combination with gemcitabine. ( 1.2 ) Limitations of Use: Safety and ef\ufb01cacy of erlotinib tablets have not been established in patients with NSCLC whose tumors have other EGFR mutations. ( 1.1 ) Erlotinib tablets are not recommended for use in combination with platinum-based chemotherapy. ( 1.1 ) 1.1 Non-Small Cell Lung Cancer (NSCLC) Erlotinib Tablets was indicated for: The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving \ufb01rst-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen [see Clinical Studies (14.1 , 14.3) ] . Limitations of use: Safety and ef\ufb01cacy of erlotinib have not been established in patients with NSCLC whose tumors have other EGFR mutations [see Clinical St",
+    "contraindications": "4 CONTRAINDICATIONS None None ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Interstitial lung disease (ILD) : Occurs in 1.1% of patients. Withhold erlotinib tablets for acute onset of new or progressive unexplained pulmonary symptoms, such as dyspnea, cough and fever. Discontinue erlotinib if ILD is diagnosed. ( 5.1 ) Renal failure : Monitor renal function and electrolytes, particularly in patients at risk of dehydration. Withhold erlotinib tablets for severe renal toxicity. ( 5.2 ) Hepatotoxicity : Occurs with or without hepatic impairment, i",
+    "mechanism": "12.1 Mechanism of Action Epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells. In some tumor cells signaling through this receptor plays a role in tumor cell survival and proliferation irrespective of EGFR mutation status. Erlotinib reversibly inhibits the kinase activity of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor and thereby inhibiting further downstream signaling. Erlotinib binding af\ufb01nity for EG",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "gefitinib",
+    "brand_name": "Iressa",
+    "biomarker": "EGFR",
+    "alterations": [
+      "L858R",
+      "exon 19 deletion"
+    ],
+    "indications": "1 INDICATIONS AND USAGE Gefitinib tablets are indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test [ see Clinical Studies (14) ]. Limitation of Use: Safety and efficacy of gefitinib tablets have not been established in patients with metastatic NSCLC whose tumors have EGFR mutations other than exon 19 deletions or exon 21 (L858R) substitution mutations [ see Clinical Studies (14) ]. Gefitinib tablets are a tyrosine kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test. (1) Limitation of Use: Safety and efficacy of gefitinib tablets have not been established in patients whose tumors have EGFR mutations other than exon 19 deletions or exon 21 (L858R) substitution mutations. (1)",
+    "contraindications": "4 CONTRAINDICATIONS None. None. (4)",
+    "warnings": "5 WARNINGS AND PRECAUTIONS \u2022Interstitial lung disease (ILD): ILD occurred in patients taking gefitinib tablets. Withhold gefitinib tablets for worsening of respiratory symptoms. Discontinue gefitinib tablets if ILD is confirmed. ( 2.4 , 5.1 ) \u2022Hepatotoxicity: Obtain periodic liver function testing. Withhold gefitinib tablets for Grade 2 or higher for ALT and/or AST elevations. Discontinue for severe hepatic impairment. ( 2.4 , 5.2 ) \u2022Gastrointestinal perforation: Discontinue gefitinib tablets fo",
+    "mechanism": "12.1 Mechanism of Action The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. Gefi",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "afatinib",
+    "brand_name": "Gilotrif",
+    "biomarker": "EGFR",
+    "alterations": [
+      "L858R",
+      "exon 19 deletion"
+    ],
+    "indications": "1 INDICATIONS AND USAGE GILOTRIF is a kinase inhibitor indicated for: First-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test ( 1.1 ) Limitations of Use : Safety and efficacy of GILOTRIF were not established in patients whose tumors have resistant EGFR mutations ( 1.1 ) Treatment of patients with metastatic, squamous NSCLC progressing after platinum-based chemotherapy ( 1.2 ) 1.1 EGFR Mutation-Positive, Metastatic Non-Small Cell Lung Cancer GILOTRIF is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test [see Dosage and Administration (2.1) , Clinical Pharmacology (12.1) , Clinical Studies (14.1) ]. Limitations of Use : The safety and efficacy of GILOTRIF have not been established in patients whose tumors have resistant EGFR mutations [see Clinical Studies (14.1) ]. 1.2 Previously Treated, Metastatic Squamous NSCLC GILOTRIF is indicated for the treatment of patients with metastatic squamous NSCLC progressing after platinum-based chemotherapy .",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Diarrhea : Diarrhea may result in dehydration and renal failure. Withhold GILOTRIF for severe and prolonged diarrhea not responsive to anti-diarrheal agents. ( 2.3 , 5.1 ) Bullous and exfoliative skin disorders : Severe bullous, blistering, and exfoliating lesions occurred in 0.2% of patients. Discontinue for life-threatening cutaneous reactions. Withhold GILOTRIF for severe and prolonged cutaneous reactions. ( 2.3 , 5.2 ) Interstitial lung disease (ILD) : Occurs in 1.",
+    "mechanism": "12.1 Mechanism of Action Afatinib covalently binds to the kinase domains of EGFR (ErbB1), HER2 (ErbB2), and HER4 (ErbB4) and irreversibly inhibits tyrosine kinase autophosphorylation, resulting in downregulation of ErbB signaling. Certain mutations in EGFR, including non-resistant mutations in its kinase domain, can result in increased autophosphorylation of the receptor, leading to receptor activation, sometimes in the absence of ligand binding, and can support cell proliferation in NSCLC. Non-",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "alectinib",
+    "brand_name": "Alecensa",
+    "biomarker": "ALK",
+    "alterations": [
+      "fusion",
+      "rearrangement"
+    ],
+    "indications": "1 INDICATIONS AND USAGE ALECENSA is a kinase inhibitor indicated for: adjuvant treatment in adult patients following tumor resection of anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) (tumors \u2265 4 cm or node positive) as detected by an FDA-approved test. ( 1.1 ) treatment of adult patients with ALK-positive metastatic NSCLC as detected by an FDA-approved test. ( 1.2 ) 1.1 Adjuvant Treatment of Resected ALK-Positive Non-Small Cell Lung Cancer (NSCLC) ALECENSA is indicated as adjuvant treatment in adult patients following tumor resection of anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) (tumors \u2265 4 cm or node positive), as detected by an FDA-approved test [see Dosage & Administration (2.1) ]. 1.2 Treatment of Metastatic ALK-Positive NSCLC ALECENSA is indicated for the treatment of adult patients with ALK-positive metastatic NSCLC as detected by an FDA-approved test [see Dosage & Administration (2.1) ] .",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Hepatotoxicity: Monitor liver laboratory tests every 2 weeks during the first 3 months of treatment, then once a month and as clinically indicated, with more frequent testing in patients who develop transaminase and bilirubin elevations. In case of severe ALT, AST, or bilirubin elevations, withhold, then reduce dose, or permanently discontinue ALECENSA. ( 2.4 , 5.1 ) Interstitial Lung Disease (ILD)/Pneumonitis: Immediately withhold ALECENSA in patients diagnosed with I",
+    "mechanism": "12.1 Mechanism of Action Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations. The major active metabolite of alectinib, M4, showed similar in vitro potency and activity. Alectinib and M4 demonstrated in vitro and in vivo",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "crizotinib",
+    "brand_name": "Xalkori",
+    "biomarker": "ALK/ROS1/MET",
+    "alterations": [
+      "fusion",
+      "exon 14 skipping"
+    ],
+    "indications": "1 INDICATIONS AND USAGE XALKORI is a kinase inhibitor indicated for the treatment of \u2022 adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test. ( 1.1 , 2.1 ) \u2022 pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive. ( 1.2 , 2.3 ) o Limitations of Use: The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL. \u2022 adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive. ( 1.3 , 2.3 ) 1.1 ALK- or ROS1-Positive Metastatic Non-Small Cell Lung Cancer XALKORI is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . 1.2 Relapsed or Refractory, Systemic ALK-Positive Anaplastic Large Cell Lymphoma XALKORI is indicated for the treatment of pediatric patients 1 year of age and older and young adults with relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive . Limitations of Use : The safety and efficacy of XALKORI have not been established in older adults with relapsed or refractory",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS \u2022 Hepatotoxicity: Fatal hepatotoxicity has occurred. Monitor with periodic liver testing. Temporarily suspend, dose reduce, or permanently discontinue XALKORI. ( 2.2 , 2.6 , 5.1 ) \u2022 Interstitial Lung Disease (ILD)/Pneumonitis: Permanently discontinue in patients with ILD/pneumonitis. ( 2.6 , 5.2 ) \u2022 QT Interval Prolongation: Monitor electrocardiograms and electrolytes in patients who have a history of or predisposition for QTc prolongation, or who are taking medication",
+    "mechanism": "12.1 Mechanism of Action Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins. The formation of ALK fusion proteins results in activation and dysregulation of the gene's expression and signaling which can contribute to increased cell proliferation and survival in tumors expressing th",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "lorlatinib",
+    "brand_name": "Lorbrena",
+    "biomarker": "ALK",
+    "alterations": [
+      "fusion",
+      "rearrangement"
+    ],
+    "indications": "1 INDICATIONS AND USAGE LORBRENA \u00ae is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test. LORBRENA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK)-positive as detected by an FDA-approved test. ( 1 , 2.1 )",
+    "contraindications": "4 CONTRAINDICATIONS LORBRENA is contraindicated in patients taking strong CYP3A inducers, due to the potential for serious hepatotoxicity [see Warnings and Precautions (5.1) ] . Concomitant use with strong CYP3A inducers. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS \u2022 Risk of Serious Hepatotoxicity with Concomitant Use of Strong CYP3A Inducers : Discontinue strong CYP3A inducers for 3 plasma half-lives of the strong CYP3A inducer prior to initiating LORBRENA. ( 2.4 , 5.1 ) \u2022 Central Nervous System (CNS) Effects : CNS effects include seizures, psychotic effects and changes in cognitive function, mood (including suicidal ideation), speech, mental status, and sleep. Withhold and resume LORBRENA at same or reduced dose or permanently ",
+    "mechanism": "12.1 Mechanism of Action Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors. In mice subcutaneously implanted with tumors harboring EML4 fusions with either ALK variant 1 or ALK mutations, including t",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "brigatinib",
+    "brand_name": "Alunbrig",
+    "biomarker": "ALK",
+    "alterations": [
+      "fusion",
+      "rearrangement"
+    ],
+    "indications": "1 INDICATIONS AND USAGE ALUNBRIG is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . ALUNBRIG is a kinase inhibitor indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test. ( 1 , 2.1 )",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Interstitial Lung Disease (ILD)/Pneumonitis : Monitor for new or worsening respiratory symptoms, particularly during the first week of treatment. Withhold ALUNBRIG for new or worsening respiratory symptoms and promptly evaluate for ILD/pneumonitis. Upon recovery, either dose reduce or permanently discontinue ALUNBRIG. ( 2.3 , 5.1 ) Hypertension : Monitor blood pressure after 2 weeks and then at least monthly during treatment. For severe hypertension, withhold ALUNBRIG,",
+    "mechanism": "12.1 Mechanism of Action Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays. Brigatinib also inhibited the in vitr",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "dabrafenib",
+    "brand_name": "Tafinlar",
+    "biomarker": "BRAF",
+    "alterations": [
+      "V600E"
+    ],
+    "indications": "1 INDICATIONS AND USAGE TAFINLAR is a kinase inhibitor indicated as a single agent for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test. ( 1.1 , 2.1 ) TAFINLAR is indicated, in combination with trametinib , for: the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.2 , 2.1 ) the adjuvant treatment of patients with melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test, and involvement of lymph node(s), following complete resection. ( 1.3 , 2.1 ) the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with BRAF V600E mutation as detected by an FDA-approved test. ( 1.4 , 2.1 ) the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation, as detected by an FDA-approved test, and with no satisfactory locoregional treatment options. ( 1.5 , 2.1 ) the treatment of adult and pediatric patients 1 year of age and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DoR). Continued approval for this indication may be contingent upon verification and description of clinical benefi",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS New Primary Malignancies, Cutaneous and Non-Cutaneous : Can occur when TAFINLAR is administered as a single agent or with trametinib. Monitor patients for new malignancies prior to, or while on therapy, and following discontinuation of treatment. ( 5.1 , 2.4 ) Tumor Promotion in BRAF Wild-type Tumors : Increased cell proliferation can occur with BRAF inhibitors. ( 5.2 , 2.1 ) Hemorrhage : Major hemorrhagic events can occur in patients receiving TAFINLAR with trametinib",
+    "mechanism": "12.1 Mechanism of Action Dabrafenib is an inhibitor of some mutated forms of BRAF kinases with in vitro IC 50 values of 0.65, 0.5, and 1.84 nM for BRAF V600E, BRAF V600K, and BRAF V600D enzymes, respectively. Dabrafenib also inhibits wild-type BRAF and CRAF kinases with IC 50 values of 3.2 and 5.0 nM, respectively, and other kinases, such as SIK1, NEK11, and LIMK1 at higher concentrations. Some mutations in the BRAF gene, including those that result in BRAF V600E, can result in constitutively ac",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "trametinib",
+    "brand_name": "Mekinist",
+    "biomarker": "MEK/BRAF",
+    "alterations": [
+      "V600E"
+    ],
+    "indications": "1 INDICATIONS AND USAGE MEKINIST is a kinase inhibitor indicated as a single agent for the treatment of BRAF-inhibitor treatment-na\u00efve patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.1 , 2.1 ) MEKINIST is indicated, in combination with dabrafenib, for: the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.1 , 2.1 ) the adjuvant treatment of patients with melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test, and involvement of lymph node(s), following complete resection. ( 1.2 , 2.1 ) the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with BRAF V600E mutation as detected by an FDA-approved test. ( 1.3 , 2.1 ) the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation, as detected by an FDA-approved test, and with no satisfactory locoregional treatment options. ( 1.4 , 2.1 ) the treatment of adult and pediatric patients 1 year of age and older with unresectable or metastatic solid tumors with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and de",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS New Primary Malignancies, Cutaneous and Non-Cutaneous : Can occur when MEKINIST is used with dabrafenib. Monitor patients for new malignancies prior to, or while on therapy, and following discontinuation of treatment. ( 5.1 ) Hemorrhage : Major hemorrhagic events can occur. Monitor for signs and symptoms of bleeding. ( 5.2 ) Colitis and Gastrointestinal Perforation : Colitis and gastrointestinal perforation can occur in patients receiving MEKINIST. ( 5.3 ) Venous Throm",
+    "mechanism": "12.1 Mechanism of Action Trametinib is a reversible inhibitor of mitogen-activated extracellular signal-regulated kinase 1 (MEK1) and MEK2 activation and of MEK1 and MEK2 kinase activity. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation. BRAF V600E mutations result in constitutive activation of the BRAF pathway which includes MEK1 and MEK2. Trametinib inhibits cell growth of various BRAF V600 mutation-positive tu",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "sotorasib",
+    "brand_name": "Lumakras",
+    "biomarker": "KRAS",
+    "alterations": [
+      "G12C"
+    ],
+    "indications": "1 INDICATIONS AND USAGE LUMAKRAS is an inhibitor of the RAS GTPase family indicated for: KRAS G12C-mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) As a single agent, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic NSCLC, as determined by an FDA-approved test, who have received at least one prior systemic therapy. ( 1.1 ) This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1.1 ) KRAS G12C-mutated Metastatic Colorectal Cancer (mCRC) In combination with panitumumab, for the treatment of adult patients with KRAS G12C-mutated mCRC as determined by an FDA approved-test, who have received prior fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy. ( 1.2 ) 1.1 KRAS G12C-mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) LUMAKRAS as a single agent is indicated for the treatment of adult patients with KRAS G12C -mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , who have received at least one prior systemic therapy. This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR) [see Clinical Studies (14.1) ] . Cont",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Hepatotoxicity: Monitor liver function tests every 3 weeks for the first 3 months of treatment then once monthly as clinically indicated. Consider administering systemic corticosteroids and withhold, reduce the dose, or permanently discontinue LUMAKRAS based on the severity. ( 2.3 , 5.1 ) Interstitial Lung Disease (ILD)/Pneumonitis: Monitor for new or worsening pulmonary symptoms. Immediately withhold LUMAKRAS for suspected ILD/pneumonitis and permanently discontinue i",
+    "mechanism": "12.1 Mechanism of Action Sotorasib is an inhibitor of KRAS G12C, a tumor-restricted, mutant-oncogenic form of the RAS GTPase, KRAS. Sotorasib forms an irreversible, covalent bond with the unique cysteine of KRAS G12C, locking the protein in an inactive state that prevents downstream signaling without affecting wild-type KRAS. Sotorasib blocked KRAS signaling, inhibited cell growth, and promoted apoptosis only in KRAS G12C tumor cell lines. Sotorasib inhibited KRAS G12C in vitro and in vivo with ",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "adagrasib",
+    "brand_name": "Krazati",
+    "biomarker": "KRAS",
+    "alterations": [
+      "G12C"
+    ],
+    "indications": "1 INDICATIONS AND USAGE KRAZATI is an inhibitor of the RAS GTPase family indicated for: Non-small cell lung cancer (NSCLC)* \u2022 As a single agent, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic NSCLC, as determined by an FDA-approved test, who have received at least one prior systemic therapy. ( 1.1 ) Colorectal cancer (CRC)* \u2022 In combination with cetuximab, for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic CRC, as determined by an FDA-approved test, who have received prior treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy. ( 1.2 ) *These indications are approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for these indications may be contingent upon verification and description of a clinical benefit in confirmatory trials. ( 1.1 , 1.2 ) 1.1 KRAS G12C-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer KRAZATI, as a single-agent, is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ] , who have received at least one prior systemic therapy. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR) [see Clinical Studies (14.1) ]. Continued approval for this ",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS \u2022 Gastrointestinal Adverse Reactions : Monitor patients for diarrhea, nausea and vomiting and provide supportive care as needed. Withhold, reduce the dose or permanently discontinue based on severity. ( 2.3 , 5.1 ) \u2022 QTc Interval Prolongation: Avoid concomitant use of KRAZATI with other products with a known potential to prolong the QTc interval. Monitor ECG and electrolytes particularly potassium and magnesium, in patients at risk, and in patients taking medications k",
+    "mechanism": "12.1 Mechanism of Action Adagrasib is an irreversible inhibitor of KRAS G12C that covalently binds to the mutant cysteine in KRAS G12C and locks the mutant KRAS protein in its inactive state that prevents downstream signaling without affecting wild-type KRAS protein. Adagrasib inhibited tumor cell growth and viability in cells harboring KRAS G12C mutations and resulted in tumor regression in KRAS G12C-mutated tumor xenograft models with minimal off-target activity. Adagrasib in combination with ",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "tepotinib",
+    "brand_name": "Tepmetko",
+    "biomarker": "MET",
+    "alterations": [
+      "exon 14 skipping"
+    ],
+    "indications": "1 INDICATIONS AND USAGE TEPMETKO is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) harboring mesenchymal-epithelial transition ( MET ) exon 14 skipping alterations. TEPMETKO is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) harboring mesenchymal-epithelial transition ( MET ) exon 14 skipping alterations. ( 1 )",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Interstitial Lung Disease (ILD)/Pneumonitis : Immediately withhold TEPMETKO in patients with suspected ILD/pneumonitis. Permanently discontinue TEPMETKO in patients diagnosed with ILD/pneumonitis of any severity. ( 2.4 , 5.1 ) Hepatotoxicity : Monitor liver function tests. Withhold, dose reduce, or permanently discontinue TEPMETKO based on severity. ( 5.2 ) Pancreatic Toxicity : Monitor amylase and lipase. Withhold, dose reduce, or permanently discontinue TEPMETKO base",
+    "mechanism": "12.1 Mechanism of Action Tepotinib is a kinase inhibitor that targets MET, including variants with exon 14 skipping alterations. Tepotinib inhibits hepatocyte growth factor (HGF)-dependent and -independent MET phosphorylation and MET-dependent downstream signaling pathways. Tepotinib also inhibited melatonin 2 and imidazoline 1 receptors at clinically achievable concentrations. In vitro, tepotinib inhibited tumor cell proliferation, anchorage-independent growth, and migration of MET-dependent tu",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "capmatinib",
+    "brand_name": "Tabrecta",
+    "biomarker": "MET",
+    "alterations": [
+      "exon 14 skipping"
+    ],
+    "indications": "1 INDICATIONS AND USAGE TABRECTA is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping as detected by an FDA-approved test. TABRECTA is a kinase inhibitor indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping as detected by an FDA-approved test.",
+    "contraindications": "4 CONTRAINDICATIONS None. None.",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Interstitial Lung Disease (ILD)/Pneumonitis : Monitor for new or worsening pulmonary symptoms indicative of ILD/pneumonitis. Permanently discontinue TABRECTA in patients with ILD/pneumonitis. ( 2.3 , 5.1 ) Hepatotoxicity : Monitor liver function tests. Withhold, dose reduce, or permanently discontinue TABRECTA based on severity. ( 2.3 , 5.2 ) Pancreatic Toxicity : Monitor amylase and lipase levels. Withhold, dose reduce, or permanently discontinue TABRECTA based on sev",
+    "mechanism": "12.1 Mechanism of Action Capmatinib is a kinase inhibitor that targets MET, including the mutant variant produced by exon 14 skipping. MET exon 14 skipping results in a protein with a missing regulatory domain that reduces its negative regulation leading to increased downstream MET signaling. Capmatinib inhibited cancer cell growth driven by a mutant MET variant lacking exon 14 at clinically achievable concentrations and demonstrated anti-tumor activity in murine tumor xenograft models derived f",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "selpercatinib",
+    "brand_name": "Retevmo",
+    "biomarker": "RET",
+    "alterations": [
+      "fusion",
+      "rearrangement"
+    ],
+    "indications": "1 INDICATIONS AND USAGE RETEVMO \u00ae is a kinase inhibitor indicated for the treatment of: Adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a rearranged during transfection (RET) gene fusion, as detected by an FDA-approved test ( 1.1 ) Adult and pediatric patients 2 years of age and older with advanced or metastatic medullary thyroid cancer (MTC) with a RET mutation, as detected by an FDA-approved test, who require systemic therapy ( 1.2 ) Adult and pediatric patients 2 years of age and older with advanced or metastatic thyroid cancer with a RET gene fusion, as detected by an FDA-approved test, who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate) ( 1.3 ) Adult and pediatric patients 2 years of age and older with locally advanced or metastatic solid tumors with a RET gene fusion, as detected by an FDA-approved test, that have progressed on or following prior systemic treatment or who have no satisfactory alternative treatment options 1 ( 1.4 ) 1 This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). 1.1 RET Fusion-Positive Non-Small Cell Lung Cancer RETEVMO \u00ae is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a rearrang",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Hepatotoxicity : Monitor ALT and AST prior to initiating RETEVMO, every 2 weeks during the first 3 months, then monthly thereafter and as clinically indicated. Withhold, reduce the dose, or permanently discontinue RETEVMO based on severity. ( 2.5 , 5.1 ) Interstitial Lung Disease (ILD)/Pneumonitis : Monitor for new or worsening pulmonary symptoms. Withhold, reduce the dose or permanently discontinue RETEVMO based on severity. ( 2.5 , 5.2 ) Hypertension: Do not initiate",
+    "mechanism": "12.1 Mechanism of Action Selpercatinib is a kinase inhibitor. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable. In cellular assays, selpercatinib inhibited RET at approximately 60-fold lower concentrations than FGFR1 and 2 and approximately 8-fold lower concentrat",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "pralsetinib",
+    "brand_name": "Gavreto",
+    "biomarker": "RET",
+    "alterations": [
+      "fusion",
+      "rearrangement"
+    ],
+    "indications": "1 INDICATIONS AND USAGE GAVRETO is a kinase inhibitor indicated for treatment of: Adult patients with metastatic rearranged during transfection (RET ) fusion-positive non-small cell lung cancer as detected by an FDA approved test (NSCLC). ( 1.1 ) Adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate). This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1.2 ) 1.1 Metastatic RET Fusion-Positive Non-Small Cell Lung Cancer GAVRETO is indicated for the treatment of adult patients with metastatic RET fusion-positive non-small cell lung cancer (NSCLC) as detected by an FDA approved test. 1.2 RET Fusion-Positive Thyroid Cancer GAVRETO is indicated for the treatment of adult and pediatric patients 12 years of age and older with advanced or metastatic RET fusion-positive thyroid cancer who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate). This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.2) ] . Continued approval for this indication may be contingent upon verification and descrip",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Serious Infections, Including Opportunistic Infections: Monitor for signs and symptoms of infection and treat appropriately. Withhold, reduce the dose, or permanently discontinue GAVRETO based on severity. ( 2.3 , 5.1 ) Interstitial Lung Disease (ILD)/Pneumonitis: Withhold GAVRETO for Grade 1 or 2 reactions until resolution and then resume at a reduced dose. Permanently discontinue for recurrent ILD/pneumonitis. Permanently discontinue for Grade 3 or 4 reactions. ( 2.3",
+    "mechanism": "12.1 Mechanism of Action Pralsetinib is a kinase inhibitor of wild-type RET and oncogenic RET fusions (CCDC6- RET ) and mutations ( RET V804L, RET V804M and RET M918T) with half maximal inhibitory concentrations (IC 50s ) less than 0.5 nM. In purified enzyme assays, pralsetinib inhibited DDR1, TRKC, FLT3, JAK1-2, TRKA, VEGFR2, PDGFRB, and FGFR1 at higher concentrations that were still clinically achievable at C max . In cellular assays, pralsetinib inhibited RET at approximately 14-, 40-, and 12",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "larotrectinib",
+    "brand_name": "Vitrakvi",
+    "biomarker": "NTRK",
+    "alterations": [
+      "fusion"
+    ],
+    "indications": "1 INDICATIONS AND USAGE VITRAKVI is indicated for the treatment of adult and pediatric patients with solid tumors that: have a neurotrophic receptor tyrosine kinase ( NTRK ) gene fusion without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have no satisfactory alternative treatments or that have progressed following treatment. Select patients for therapy based on an FDA-approved test [see Dosage and Administration (2.1) ]. VITRAKVI is a kinase inhibitor indicated for the treatment of adult and pediatric patients with solid tumors that: have a neurotrophic receptor tyrosine kinase ( NTRK ) gene fusion without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have no satisfactory alternative treatments or that have progressed following treatment. Select patients for therapy based on an FDA-approved test. ( 1 , 2.1 )",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Central Nervous System (CNS) Effects: Advise patients and caretakers of the risk of CNS adverse reactions including dizziness, cognitive impairment, mood disorders, and sleep disturbances. Advise patients not to drive or operate hazardous machinery if experiencing neurotoxicity. Withhold and modify dosage, or permanently discontinue VITRAKVI based on severity. ( 2.3 , 5.1 ) Skeletal Fractures: Promptly evaluate patients with signs or symptoms of fractures. ( 5.2 ) Hepa",
+    "mechanism": "12.1 Mechanism of Action Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC. In a broad panel of purified enzyme assays, larotrectinib inhibited TRKA, TRKB, and TRKC with IC 50 values between 5-11 nM. One other kinase TNK2 was inhibited at approximately 100-fold higher concentration. TRKA, B, and C are encoded by the genes NTRK1, NTRK2, and NTRK3. Chromosomal rearrangements involving in-frame fusions of these genes with various partners can result in co",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "entrectinib",
+    "brand_name": "Rozlytrek",
+    "biomarker": "NTRK/ROS1",
+    "alterations": [
+      "fusion"
+    ],
+    "indications": "1 INDICATIONS AND USAGE ROZLYTREK is a kinase inhibitor indicated for the treatment of: Adult patients with ROS1- positive metastatic non-small cell lung cancer (NSCLC) as detected by an FDA-approved test. ( 1.1 ) Adult and pediatric patients older than 1 month of age with solid tumors that: have a neurotrophic tyrosine receptor kinase ( NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have progressed following treatment or have no satisfactory alternative therapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. ( 1.2 ) 1.1 ROS1 -Positive Non-Small Cell Lung Cancer ROZLYTREK is indicated for the treatment of adult patients with ROS1- positive metastatic non-small cell lung cancer (NSCLC), as detected by an FDA-approved test. 1.2 NTRK Gene Fusion-Positive Solid Tumors ROZLYTREK is indicated for the treatment of adult and pediatric patients older than 1 month of age with solid tumors that: have a neurotrophic tyrosine receptor kinase (NTRK) gene fusion, as detected by an FDA-approved test without a known acquired resistance mutation, are metastatic or where surgical resection is likely to result in severe morbidity, and have progressed follo",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Congestive Heart Failure (CHF) : Assess left ventricular ejection fraction (LVEF) prior to initiation of ROZLYTREK. Monitor patients for clinical signs and symptoms of CHF. For patients with myocarditis, with or without a decreased ejection fraction, MRI or cardiac biopsy may be required to make the diagnosis. For new onset or worsening CHF, withhold ROZLYTREK, reassess LVEF and institute appropriate medical management. Reduce dose or permanently discontinue ROZLYTREK ",
+    "mechanism": "12.1 Mechanism of Action Entrectinib is an inhibitor of the tropomyosin receptor tyrosine kinases (TRK) TRKA, TRKB, and TRKC (encoded by the neurotrophic tyrosine receptor kinase [ NTRK ] genes NTRK1, NTRK2, and NTRK3 , respectively), proto-oncogene tyrosine-protein kinase ROS1 (ROS1), and anaplastic lymphoma kinase (ALK) with IC 50 values of 0.1 to 2 nM. Entrectinib also inhibits JAK2 and TNK2 with IC 50 values > 5 nM. The major active metabolite of entrectinib, M5, showed similar in vitro acti",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "pembrolizumab",
+    "brand_name": "Keytruda",
+    "biomarker": "PD-L1",
+    "alterations": [
+      "high expression",
+      "TPS>=50%"
+    ],
+    "indications": "1 INDICATIONS AND USAGE KEYTRUDA QLEX is a combination of pembrolizumab, a programmed death receptor-1 (PD-1)-blocking antibody, and berahyaluronidase alfa, an endoglycosidase, indicated: Melanoma for the treatment of adult patients with unresectable or metastatic melanoma. ( 1.1 ) for the adjuvant treatment of adult and pediatric patients 12 years and older with Stage IIB, IIC, or III melanoma following complete resection. ( 1.1 ) Non-Small Cell Lung Cancer (NSCLC) in combination with pemetrexed and platinum chemotherapy, as first-line treatment of adult patients with metastatic nonsquamous NSCLC, with no EGFR or ALK genomic tumor aberrations. ( 1.2 ) in combination with carboplatin and either paclitaxel or paclitaxel protein-bound, as first-line treatment of adult patients with metastatic squamous NSCLC. ( 1.2 ) as a single agent for the first-line treatment of adult patients with NSCLC expressing PD-L1 [Tumor Proportion Score (TPS) \u22651%] as determined by an FDA-authorized test, with no EGFR or ALK genomic tumor aberrations, and is: Stage III where patients are not candidates for surgical resection or definitive chemoradiation, or metastatic. ( 1.2 , 2.1 ) as a single agent for the treatment of adult patients with metastatic NSCLC whose tumors express PD-L1 (TPS \u22651%) as determined by an FDA-authorized test, with disease progression on or after platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved",
+    "contraindications": "4 CONTRAINDICATIONS KEYTRUDA QLEX is contraindicated in patients with known hypersensitivity to berahyaluronidase alfa, hyaluronidase or to any of its excipients. KEYTRUDA QLEX is contraindicated in patients with known hypersensitivity to berahyaluronidase alfa, hyaluronidase or to any of its excipients. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Immune-Mediated Adverse Reactions ( 5.1 ) Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue, including the following: immune-mediated pneumonitis, immune-mediated colitis, immune-mediated hepatitis, immune-mediated endocrinopathies, immune-mediated nephritis with renal dysfunction, immune-mediated dermatologic adverse reactions, and solid organ transplant rejection. Monitor for early identification and management. ",
+    "mechanism": "12.1 Mechanism of Action Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells, inhibits T cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the im",
+    "source": "FDA"
+  },
+  {
+    "drug_name": "atezolizumab",
+    "brand_name": "Tecentriq",
+    "biomarker": "PD-L1",
+    "alterations": [
+      "expression"
+    ],
+    "indications": "1 INDICATIONS AND USAGE TECENTRIQ is a programmed death-ligand 1 (PD-L1) blocking antibody indicated: Non-Small Cell Lung Cancer (NSCLC) as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage II to IIIA NSCLC whose tumors have PD-L1 expression on \u2265 1% of tumor cells, as determined by an FDA-authorized test. ( 1.1 , 14.1 ) for the first-line treatment of adult patients with metastatic NSCLC whose tumors have high PD-L1 expression (PD-L1 stained \u2265 50% of tumor cells [TC \u2265 50%] or PD-L1 stained tumor-infiltrating immune cells [IC] covering \u2265 10% of the tumor area [IC \u2265 10%] ), as determined by an FDA-authorized test, with no EGFR or ALK genomic tumor aberrations. ( 1.1 ) in combination with bevacizumab, paclitaxel, and carboplatin, for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations. ( 1.1 ) in combination with paclitaxel protein-bound and carboplatin for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations ( 1.1 ) for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ. ( 1.1 ) Small Cell Lung Cancer (SCLC) in combination with car",
+    "contraindications": "4 CONTRAINDICATIONS None. None. ( 4 )",
+    "warnings": "5 WARNINGS AND PRECAUTIONS Immune-Mediated Adverse Reactions Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue, including the following: immune-mediated pneumonitis, immune-mediated colitis, immune-mediated hepatitis, immune-mediated endocrinopathies, immune-mediated dermatologic adverse reactions, immune-mediated nephritis and renal dysfunction, and solid organ transplant rejection. ( 5.1 ) Monitor for early identification and management. E",
+    "mechanism": "12.1 Mechanism of Action PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptor",
+    "source": "FDA"
+  }
+]

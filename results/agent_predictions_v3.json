@@ -1,0 +1,3441 @@
+[
+  {
+    "case_id": "MTB-032EC97B",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-38C36658",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-34E2E109",
+    "predicted_label": "Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1F6F60D4",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-F2120659",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CF37A80D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-24A03D48",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-4DE77814",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-46BFFB2C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B546C069",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-23284B84",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A2668DE0",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-7949019E",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-81D25023",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FCD1BED4",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6B2ED44D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5CD3E8AE",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-0CC4BCBB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B42CE734",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CDE1F7D0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8AE66839",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-79BBCA12",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F4B3CD6D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-AE1BA0B9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-D7860EAE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DEB01D16",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-8D79192B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B9A2DC1E",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-2EF62B5E",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-3B49988D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3DB7351E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1AC51FAE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-078F85EB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E456F313",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-044B469C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DE275624",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7D6A9F93",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-B131E2EF",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-35FAD5B3",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2B01FB13",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-876E952C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-67FA122D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D68CF43A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7569FAC9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-9EC5ADFF",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-32887890",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-14380360",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-D992EE98",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7F26F89D",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-00E9F86B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CFC91CC6",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DE36549F",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2CE249BD",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0EB10C80",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-78D976AC",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-8214B9CE",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C9210F63",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E361BA14",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CA20F57A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-0ABD39C6",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-76D4670B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-022E427E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1910001E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D5018FB9",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-21FA2FC2",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-06D3DCEE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D2E427E7",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-27EBB8EB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1AC523D0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-886B5A7A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-15632A9E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-54D1696C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D89949BA",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-CF0B4127",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-4884B46B",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-05CAD507",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0B053318",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-20145540",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-68D29ABA",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B2D1A5E8",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5083EA3E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-ECFC65FF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FCBFF6BF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2144AC61",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E045FF8E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-17BD99CC",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-722DF141",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6D53D87D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-99FF20DA",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-398F6778",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-49E6BE27",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C6552382",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B9CFC70D",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-415E2636",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-AF77888C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-D04D588C",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-15AF62A6",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-8755841D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A1A9BC31",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-55CC0153",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E3E25270",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-41E2E71B",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2AC96409",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-6E729EA9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-C70DD80D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FBA9D911",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4398950D",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-059F5829",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A565AEC1",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3FDA9C11",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B12D0AF4",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-3A9B3037",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0B324656",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-766E1BD7",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CA782C11",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7D74AFBF",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-EC6F9295",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-155A2CC0",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-4386207F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4D7A7A76",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CE6AB0CE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-FA79A9FD",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5C7435AA",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3FB21AC6",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-67C0CF3B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6C391048",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C89D9480",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9596027B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7107CB72",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0A6ACA1F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B9EA9EBC",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2791CA68",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-F6F88E98",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-162CBC5C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-C0F5E367",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-552A58AC",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-33030AAC",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9BBA985A",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "pdl1_expression",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-F94670B6",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-71183F9C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-7D5A39D7",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CF1F9E52",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-19347835",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-642389B9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-56F2DEC8",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-11092072",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-78A339A8",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-899341EB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-5D479F9A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CFB88676",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-74FE98DF",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E438D18B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-74235A92",
+    "predicted_label": "Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4B69CA97",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7D5D7D97",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-76BC70C2",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E8F5BEA4",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-50176036",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-3711C56C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-12750276",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B8C1BB8B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4B39F959",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-EC12ECCC",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-65C51F52",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FB70C46D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1DB26526",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7F6204B0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-9BE29BA8",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1C9A6E64",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-168E0F57",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C787EC9F",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4B7E0C0E",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9CCC3F47",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-32367FC3",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-3F97DCB9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7F14E2A2",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E2AE543D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-514695AF",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-223D99E2",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9BBA0FCA",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B65F2036",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F0E4E7A2",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-94DCC32D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-7F619181",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-82EF7D09",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E5E1CAA7",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CAC5BDE3",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B595B16A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-8B487D5F",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8EB31554",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5612A9EC",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-94083F8A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-03BC0CAA",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1DA9EDB7",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-041F6DA0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-63DA0A68",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-55B6218E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A7090BBB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-AB1DE003",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C3215DB1",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-409B37C2",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-13D51898",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-10051E3E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7BFB4A4E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-09C0AFF9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2BA79087",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0483A7CD",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0821C561",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-745E9234",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C07EF134",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4BAAD883",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B82686C9",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-E25A45FC",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0139E2E9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3BF42FDE",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9A584997",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-CCC07747",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-8D7421F6",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F649E7F0",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4B2236AB",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-81E09A6A",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-91A4A421",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1E8CEBCF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A62C152F",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1434E73D",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-86FA3414",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-D1A66A84",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-4058B84C",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-3C37B309",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-9D626787",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FC41EB11",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-229433FD",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-80FA6ADA",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-11E78043",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-17602D6A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C76428B5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8635D9B9",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-06A38C90",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-23DA4620",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BDAD4D09",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0ED30990",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4D242181",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A1848736",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9C964078",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-09161CD0",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1E41F60B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D1C3E4CB",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A32D9D48",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-16F88E67",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-69B027CC",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4724AE29",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5D1E81A7",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-14DD8DE4",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-03280E45",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-901DC226",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6690DEB7",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2CA2B6DD",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-912860EF",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-14E0BF2E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F6DD2A28",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-37208537",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-F91E4701",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-CC90ABF4",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BC7BFF9B",
+    "predicted_label": "Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-313F2CEC",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C49FCCC9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-7A5F195C",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E2D5DAA5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0104DFC4",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-52FE565F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D52D2F34",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-B1082407",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A4F3D778",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-53872E75",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9BDAF1DA",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-29735E7A",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-6C5DD591",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-14CB7D4F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DC755934",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-35312D7F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3A03B56F",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-3F6DFD7C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-46E8F18F",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-6F4255FE",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C9C2CBAE",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-0DC69198",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-088BE156",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-25DF4CAB",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7F23B810",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4C309FB9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-52DE1DF6",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1AB716E3",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D0E74A09",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7E8454BF",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2290A683",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-23CB2949",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-CB04A213",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D37A1836",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-1EF0FED1",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-ADE9E359",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9EE1168D",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-435F33F9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CB1D0A78",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B3DD39A6",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-817DE93B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B60D7BBA",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7F02DDB9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-B290E2B1",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E41B6A16",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-28EE1B1C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1583A09F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8329908A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E546641C",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2939A664",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A6361201",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DBEBDEA6",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-BF34C9C9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-5E47C701",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-B130EC83",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5AAFB2D0",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-5EAB8D0C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8D218CE9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-A4BCAEE0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-84B584D7",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C254416B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-506A9135",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8150BBA5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-8F8D1C0D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C4CB19D9",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-68CA74FB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-92874BC3",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E5117960",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "pdl1_expression",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-B330CA2C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-13FCE5DD",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-737A7A1A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A3149A91",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-704AE838",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FDEF7BB0",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-497A80D7",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-936CCF52",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-623B5004",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-7F817157",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-F4B62AD6",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0C737B7F",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F65E7A39",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2FD61471",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-C222EE70",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3E3A6194",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B11CC1AE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-4242864D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8DFA7C01",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-7E5F7679",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-21660EB4",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3CC77784",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-69CACB65",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-C8411AAF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D68533FF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CB03C579",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A7BBE5E5",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-F33E5B5B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-60AB02B0",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6C438166",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B0D36C6E",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-663C32B7",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-F098E5F7",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BB210F49",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FA89C74B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3E9EEB55",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-CC8B1C92",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-06B14308",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-848F62E5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-767D32F7",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9AF8597A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B99E6717",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D157AFA2",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-23D33103",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3C09E26F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-719EDAC3",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F73768D5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-9BF5F59D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-EB90F9A0",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B9661EB6",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-B33C65DB",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D98DAC8D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-87AACD40",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5EE3B985",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CAE214CF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7EFD37A5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CC0F8D95",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6ACFBAE2",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-89172B01",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-CF89CBCC",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-20BFF639",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6858EB2A",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-590A89E5",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-185C8708",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-AA529167",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4ECB2B22",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-33D23C5D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-110A5E7E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-BADE838D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E942F847",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0913DC43",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-C1319520",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A09BE7C8",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7363250D",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1F7712B8",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6EBE6C7D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-9823CD0A",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-94D09049",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-10ADBBCB",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-64279B6B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DF3A4A26",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-B0588FEF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-04F53BD1",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-37932B4B",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-03F21301",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-178985CF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E4E845E8",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-B79A2BC3",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-C0A5FE4A",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-569C3039",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-1D8BD382",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-29EBC348",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2E7D5B8B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-F4117C1E",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0F5E20C3",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5C9EB2D5",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FCFFEAA1",
+    "predicted_label": "Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-4CFBEFD5",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-78F2D5DC",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-ABBE0A84",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0633D649",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E2C1D5B5",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BD074E30",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-40942C28",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-71B4AB04",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4A612C6E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-EBDB807D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4E15AE34",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-FFCC9487",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D4A366CE",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-AAC20DB2",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-4736FE5D",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-94338760",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0CE61B89",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-E5AB19A9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E0319085",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-05BF2CD1",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-814094BF",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9A40389F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-BC92A32E",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-28A8341F",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-3C708484",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0DD05B90",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "prior_therapy",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-BA8A2D46",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-75FD1320",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-9E13D32E",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-68A46E70",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-33F1FAD7",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-DA3313FE",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-0EFDF99F",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-8512E785",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2BDB1F71",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-09E73637",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-35716F06",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BDEC6868",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-26450392",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-AAC39203",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-CB24192C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FD8F8D49",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-EB5E5CD2",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-3DE6742B",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D67092E8",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-E984DCCF",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-924DF06F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-60FBFED4",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-3C14059C",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-B4625463",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression",
+      "ecog_status",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-CC454329",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "pdl1_expression",
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-6207CC76",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-DC54A4E4",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status"
+    ]
+  },
+  {
+    "case_id": "MTB-6693FF4A",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-D018126F",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-5B54E85B",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "stage",
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-ED112B50",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-6F1BB9BA",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-81CA873E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-BE28736E",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-802097E6",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-80B62BF1",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-A28F8B5D",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-7BBC525F",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-2440091A",
+    "predicted_label": "Partially Supported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-EFF6D4D1",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "prior_therapy"
+    ]
+  },
+  {
+    "case_id": "MTB-5A3CD531",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-76E07309",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": []
+  },
+  {
+    "case_id": "MTB-FA2DAFB1",
+    "predicted_label": "Insufficient Information",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "ecog_status",
+      "pdl1_expression",
+      "brain_metastasis"
+    ]
+  },
+  {
+    "case_id": "MTB-3B6BBDF9",
+    "predicted_label": "Unsupported",
+    "predicted_abstain": true,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  },
+  {
+    "case_id": "MTB-950C67F1",
+    "predicted_label": "Supported",
+    "predicted_abstain": false,
+    "predicted_missing_fields": [
+      "pdl1_expression"
+    ]
+  }
+]

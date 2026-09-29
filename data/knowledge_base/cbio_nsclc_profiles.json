@@ -1,0 +1,3518 @@
+[
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4382",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E545Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "R222L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "V349F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "V797F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "L613F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "68",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4402",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "I759N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "T751_I759delinsN",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "57",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4410",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "R377S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "T1102I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "G466V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "62",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-5423",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L833F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "L861Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "65",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z026",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G721V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z032",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z047",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z048",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "D770_N771insGL",
+        "mutation_type": "In_Frame_Ins",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-38-4627",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "L62R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "64",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-38-4628",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "65",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-38-6178",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "70",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-5645",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "A767_V769dup",
+        "mutation_type": "In_Frame_Ins",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "61",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-A4SU",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G719C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "S768I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "67",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4490",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "45",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4494",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "T790M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "L644M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "77",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4501",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "67",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-50-5066",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "X210_splice",
+        "mutation_type": "Splice_Region",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "72",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-50-5944",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "69",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-50-6591",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L833V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "K754_I759del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "63",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-50-6595",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G719A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "S768I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "74",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-50-6673",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "H773dup",
+        "mutation_type": "In_Frame_Ins",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE I",
+    "age": "84",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-6968",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E866K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "N581S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "61",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-6980",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E709_T710delinsD",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-6981",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L747_T751del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "53",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-7570",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "V300M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "60",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-7573",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "K754E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "L747_E749del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "72",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-8096",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "67",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-8206",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-8506",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "E80D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "E80G",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "62",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-A48Z",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G719A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "60",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-55-A57B",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L747_T751del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "80",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-62-8394",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "65",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-62-8402",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-62-A46U",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "71",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-64-1681",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "61",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-67-3770",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "X501_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "70",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-67-3772",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "82",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-67-6217",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-69-7760",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E709_T710delinsD",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "73",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-69-7765",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "Q486*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "G469V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "Q515H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-71-8520",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L858R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "60",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4244",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4249",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "A762E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "67",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4250",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "E314D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "79",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4390",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK2",
+        "protein_change": "K312Nfs*13",
+        "mutation_type": "Frame_Shift_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "58",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4395",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "S309I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "76",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4403",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "H476Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "76",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4405",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "74",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4415",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "57",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4417",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "51",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4418",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "69",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4427",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "65",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-05-4433",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "82",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z010",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "R1279I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z014",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "Q61L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z017",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G13C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z020",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z022",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "Q340H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z033",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z036",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "P542R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z037",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z042",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z050",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-17-Z060",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "X501_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Unknown",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-35-3615",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "57",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-3917",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "N267I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "V282I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "33",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-6144",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "58",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-6145",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "RET",
+        "protein_change": "P560H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "62",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-6146",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "64",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-6776",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "N871K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "60",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-7659",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "G488S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-7661",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "69",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-7671",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "T660R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "64",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-7672",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "V1489F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "52",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-8117",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "L19F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "54",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-A47A",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "78",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-44-A47F",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "74",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4505",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "RET",
+        "protein_change": "T350N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "61",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4506",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G13D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "68",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "luad_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-49-4510",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "51",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-18-3417",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "X297_splice",
+        "mutation_type": "Splice_Region",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "65",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-4601",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "P1019L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "E535*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-4609",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "S229C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "81",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-33-4566",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "X1039_splice",
+        "mutation_type": "Splice_Region",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "T230S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "P612A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "A435E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "40",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-43-A56U",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "P192R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "76",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-46-3765",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G627*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "G927V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "R671L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "59",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-46-3769",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "P589L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "57",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-8304",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "G87C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-60-2698",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "X210_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "E2296K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "E738G",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "62",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-60-2708",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "S720C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "R2269L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "64",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-66-2742",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L861Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "R284K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IV",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-70-6722",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "L861Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "EGFR",
+        "protein_change": "V843L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "47",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-77-8156",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "Y1138C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "60",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-85-A50M",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "E746_A750del",
+        "mutation_type": "In_Frame_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "47",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-21-5783",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "V14I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "76",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-43-2581",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "N338Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "47",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-52-7812",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "68",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-63-6202",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "Q61H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-66-2769",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "R123*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "75",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-LA-A7SW",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "E3K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "71",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-O2-A52Q",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G13C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE III",
+    "age": "44",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-18-3416",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "P1260Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ALK",
+        "protein_change": "L1145M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "K1984N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "83",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-21-1079",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "T1512K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "RET",
+        "protein_change": "P951S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK2",
+        "protein_change": "R428Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "71",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-4613",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "P1112Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-33-AASD",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "R353S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "W1101G",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "83",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-7822",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "S62L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "75",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-8628",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "P1350T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "78",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-58-A46K",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "R292H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "59",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-63-A5MB",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "P117R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "Q272*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "62",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-63-A5MM",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "A1234T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK2",
+        "protein_change": "R27M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "69",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-66-2744",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "R1113L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "71",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-77-8148",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "D305Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "68",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-77-A5GF",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "S711N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-85-8287",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "C480F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "72",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-85-A50Z",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "V349L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "57",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-90-A4ED",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "A309T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "H725Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "69",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-NK-A5CX",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "G223V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "73",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-18-3406",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "D711N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "67",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-18-3411",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "F2046Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "G140*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "63",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-21-5784",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "T512S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "80",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-5471",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "V1682F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "75",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-5472",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R2210*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "67",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-5473",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "Q850E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "78",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-5482",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "V789A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "81",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-22-A5C4",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "A1416Pfs*6",
+        "mutation_type": "Frame_Shift_Del",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-34-5236",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "Y2092C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "60",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-34-5241",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "T1566A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "79",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-34-7107",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "E2241D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE II",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-37-4130",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "T1274A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK2",
+        "protein_change": "N815K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "H84N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-37-5819",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "A1459T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "64",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-39-5011",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R1885K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK1",
+        "protein_change": "S312A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "G642*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "70",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-51-4079",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "V2144I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-52-7809",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "Q617E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "74",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-52-7811",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R1121I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "V241A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "67",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-5897",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "I384F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "74",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-7223",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "V24L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "66",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-8083",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "H1582Q",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-66-2756",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R1129S",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIB",
+    "age": "68",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-66-2763",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R1942L",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "63",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-6A-AB49",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "K1026N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "X711_splice",
+        "mutation_type": "Splice_Region",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "73",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-77-7139",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "C1815G",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "56",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-77-A5G6",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "P1020R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "66",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-85-7844",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "X709_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "71",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-90-7964",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "G1969E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-94-A4VJ",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "L1380V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "Y744F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "71",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-98-8021",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "R1264T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "75",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-98-A53B",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "C854Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "BRAF",
+        "protein_change": "G469A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "69",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-NC-A5HH",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "P1659A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "D635N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "53",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-NC-A5HM",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "F1067Lfs*13",
+        "mutation_type": "Frame_Shift_Del",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "P738H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "P738T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "76",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-NC-A5HO",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ROS1",
+        "protein_change": "T873K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "70",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-21-5787",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "G469R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK3",
+        "protein_change": "S4C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "65",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-34-2596",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "D380H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "70",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-34-5231",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "X621_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "72",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-37-3783",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "R95T",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIIA",
+    "age": "51",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-37-4141",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "Q609H",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "65",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-39-5031",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "G464V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "I565M",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IA",
+    "age": "76",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-43-A475",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "X238_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "67",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-56-8308",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "D385N",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIB",
+    "age": "79",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-63-5128",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "V639I",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IB",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "lusc_tcga_pan_can_atlas_2018",
+    "patient_id": "TCGA-68-7755",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "L733F",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "STAGE IIA",
+    "age": "60",
+    "sex": "Female",
+    "smoking_history": "Unknown",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "RO3338",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "EGFR",
+        "protein_change": "T363A",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "ROS1",
+        "protein_change": "L836V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "CA9903",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12C",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "RET",
+        "protein_change": "K124*",
+        "mutation_type": "Nonsense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "DI6359",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Female",
+    "smoking_history": "Current",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "HE3202",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12D",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "MET",
+        "protein_change": "E608K",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Female",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "RI1933",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      },
+      {
+        "gene": "NTRK2",
+        "protein_change": "H353Y",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Female",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "SC6470",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "KRAS",
+        "protein_change": "G12V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Current",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "TU0428",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "ALK",
+        "protein_change": "K1491R",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Current",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "SC0899",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "BRAF",
+        "protein_change": "G466V",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Female",
+    "smoking_history": "Current",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "AU5884",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "MET",
+        "protein_change": "X1010_splice",
+        "mutation_type": "Splice_Site",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Male",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  },
+  {
+    "study_id": "nsclc_mskcc_2015",
+    "patient_id": "VA1330",
+    "cancer_type": "NSCLC",
+    "mutations": [
+      {
+        "gene": "NTRK1",
+        "protein_change": "G18E",
+        "mutation_type": "Missense_Mutation",
+        "amino_acid_change": ""
+      }
+    ],
+    "stage": "Unknown",
+    "age": "Unknown",
+    "sex": "Female",
+    "smoking_history": "Former",
+    "histology": "Adenocarcinoma"
+  }
+]
