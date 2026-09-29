@@ -9,7 +9,7 @@ OpenMTB-Audit is a 500-case open-source benchmark of synthetic NSCLC tumor board
 3. **`Unsupported`** — therapy lacks adequate evidentiary support for the presented context
 4. **`Insufficient Information`** — one or more critical fields are missing; safety cannot be determined
 
-The distinction between **Partially Supported** and **Unsupported** is the paper's central finding. Structured LLMs collapse nearly all Partially Supported cases into Unsupported (96.7–100% over-refusal rate), inflating safety scores while misrepresenting the clinical situation. MTB-AuditAgent resolves this with a deterministic rule-based pipeline.
+The distinction between **Partially Supported** and **Unsupported** is the paper's central finding. All eight LLM configurations collapse nearly all Partially Supported cases into Unsupported (83.3–100% over-refusal rate), inflating safety scores while misrepresenting the clinical situation. MTB-AuditAgent resolves this with a deterministic rule-based pipeline (6.7% over-refusal).
 
 The benchmark spans **five adversarial error categories** (60 cases each) plus **200 clean cases**:
 
@@ -127,7 +127,9 @@ python src/evaluation/evaluator.py \
 
 **Evaluating your own system:** Use `benchmark/inputs.jsonl` as input and evaluate against `benchmark/reference_labels.jsonl`. No answer leakage.
 
-**Withheld-profile experiment:** Use `benchmark/inputs_text_only.jsonl` to reproduce the ablation with `profile_key` removed.
+**Text-only experiment (profile-key removal):** Use `benchmark/inputs_text_only.jsonl`, which removes the `profile_key` field and requires MTB-AuditAgent to infer the molecular alteration from the free-text case description.
+
+**Withheld-profile experiment (knowledge-base ablation):** Remove five specified molecular profiles from the inference knowledge base and evaluate on the 165 affected cases. This tests behavior when evidence is unavailable; MTB-AuditAgent conservatively reclassifies affected cases as Insufficient Information rather than issuing unsupported judgments.
 
 ---
 
@@ -179,8 +181,8 @@ All 500 patient summaries are synthetic. No real patient records or protected he
 
 ```bibtex
 @inproceedings{ashrafi2027openMTBaudit,
-  title     = {OpenMTB-Audit: A Benchmark for LLM Safety Evaluation
-               in Molecular Tumor Board Decision Support},
+  title     = {OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert
+               Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation},
   author    = {Ashrafi, Negin and Luo, Jia and Frumm, Stacey M. and Daneshjou, Roxana},
   booktitle = {Pacific Symposium on Biocomputing},
   year      = {2027}
