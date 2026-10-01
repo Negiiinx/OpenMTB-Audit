@@ -44,13 +44,13 @@ OpenMTB-Audit/
 │   ├── evaluation/
 │   │   └── evaluator.py              Safety Score and all evaluation metrics
 │   ├── baselines/
-│   │   └── simulated_baselines.py    Eight LLM baseline configurations
+│   │   └── llm_baselines.py          Eight LLM baseline configurations (GPT-4o / GPT-4o-mini)
 │   ├── prompts/
 │   │   ├── base_llm_prompt.txt       System prompt for Base LLM configuration
 │   │   ├── simple_rag_prompt.txt     System prompt for Simple RAG configuration
 │   │   ├── rag_ev_prompt.txt         7-step verification prompt for RAG+EV
 │   │   └── prompt_checklist.txt      6-step checklist prompt for Prompt-Checklist
-│   ├── evidence_kb.py                15 NSCLC molecular profile definitions
+│   ├── evidence_kb.py                Source harmonization and canonical molecular-profile mapping (15 NSCLC profiles)
 │   └── retrieval/                    Data retrieval clients
 └── results/
     ├── agent_predictions_v3.json
@@ -145,7 +145,7 @@ All prompt templates used for the eight LLM baseline configurations are in [`src
 | File | Configuration | Description |
 |------|---------------|-------------|
 | [`base_llm_prompt.txt`](src/prompts/base_llm_prompt.txt) | Base LLM | Direct classification with no retrieval |
-| [`simple_rag_prompt.txt`](src/prompts/simple_rag_prompt.txt) | Simple RAG | Same prompt with CIViC/FDA evidence injected |
+| [`simple_rag_prompt.txt`](src/prompts/simple_rag_prompt.txt) | Simple RAG | Base prompt augmented with top-5 retrieved CIViC evidence records |
 | [`rag_ev_prompt.txt`](src/prompts/rag_ev_prompt.txt) | RAG+EV | 7-step explicit verification with retrieved evidence |
 | [`prompt_checklist.txt`](src/prompts/prompt_checklist.txt) | Prompt-Checklist | 6-step structured checklist (no retrieval) |
 

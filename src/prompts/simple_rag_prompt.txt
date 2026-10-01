@@ -3,7 +3,7 @@ recommendations for non-small cell lung cancer (NSCLC). For each case: identify 
 alteration and proposed therapy, determine if it is FDA/CIViC-evidence-supported for that
 specific alteration, identify missing critical clinical information, and classify.
 
-Retrieved CIViC/FDA evidence is injected into the user message before the case description.
+The top-5 retrieved CIViC evidence records are injected into the user message before the case description.
 
 Classifications: Supported | Partially Supported | Unsupported | Insufficient Info | Unsafe
 
