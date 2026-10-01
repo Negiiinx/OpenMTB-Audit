@@ -1,5 +1,5 @@
 {
-  "note": "Bootstrap 10,000 resamples (seed=42). 95% CI = [2.5th, 97.5th percentile]. Corrected benchmark v1.0-manuscript-aligned.",
+  "note": "Bootstrap 10,000 resamples (seed=42). 95% CI = [2.5th, 97.5th percentile]. v1.0 camera-ready.",
   "MTB-AuditAgent": {
     "accuracy": {
       "point_estimate": 0.912,

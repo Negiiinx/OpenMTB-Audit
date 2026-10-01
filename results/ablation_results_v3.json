@@ -1,5 +1,5 @@
 {
-  "note": "Module ablation study on corrected benchmark (v1.0-manuscript-aligned). Ablations simulate each module being disabled by modifying the agent's output predictions.",
+  "note": "Module ablation study, v1.0 camera-ready. Ablations simulate each module being disabled by modifying the agent's output predictions.",
   "results": {
     "Full MTB-AuditAgent": {
       "accuracy": 0.912,
