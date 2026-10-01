@@ -9,7 +9,7 @@ OpenMTB-Audit is a 500-case open-source benchmark of synthetic NSCLC tumor board
 3. **`Unsupported`** — therapy lacks adequate evidentiary support for the presented context
 4. **`Insufficient Information`** — one or more critical fields are missing; safety cannot be determined
 
-The distinction between **Partially Supported** and **Unsupported** is the paper's central finding. All eight LLM configurations collapse nearly all Partially Supported cases into Unsupported (83.3–100% over-refusal rate), inflating safety scores while misrepresenting the clinical situation. MTB-AuditAgent resolves this with a deterministic rule-based pipeline (6.7% over-refusal).
+The distinction between **Partially Supported** and **Unsupported** is the paper's central finding. All eight LLM configurations fail to retain the Partially Supported label in 83.3–100% of true Partially Supported cases, misclassifying them as Supported or Unsupported depending on the configuration, inflating safety scores while obscuring the clinical distinction. MTB-AuditAgent resolves this with a deterministic rule-based pipeline (6.7% over-refusal).
 
 The benchmark spans **five adversarial error categories** (60 cases each) plus **200 clean cases**:
 
