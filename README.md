@@ -55,7 +55,7 @@ OpenMTB-Audit/
 │   └── retrieval/                    Data retrieval clients
 └── results/
     ├── agent_predictions_v3.json
-    ├── evaluation_results_4label.json  Per-system Safety Score components
+    ├── evaluation_results_4label.json  Verified Safety Score components for MTB-AuditAgent
     ├── confusion_matrices_4label.json  Verified 4×4 confusion matrix for MTB-AuditAgent
     ├── overrefusal_analysis.json
     ├── bootstrap_mcnemar_results.json
