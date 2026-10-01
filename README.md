@@ -31,7 +31,8 @@ OpenMTB-Audit/
 │   ├── benchmark_cases.json          500 cases with full fields
 │   ├── inputs.jsonl                  Inputs for external system evaluation
 │   ├── inputs_text_only.jsonl        Text-only inputs (profile_key removed)
-│   └── reference_labels.jsonl        Reference labels and metadata
+│   ├── reference_labels.jsonl        Reference labels and metadata
+│   └── expert_annotations_50cases.csv  Two-oncologist labels for the 50-case concordance subset
 ├── data/
 │   └── knowledge_base/               Evidence sources used by the agent
 │       ├── civic_nsclc_evidence.json
@@ -54,7 +55,8 @@ OpenMTB-Audit/
 │   └── retrieval/                    Data retrieval clients
 └── results/
     ├── agent_predictions_v3.json
-    ├── evaluation_results_4label.json
+    ├── evaluation_results_4label.json  Per-system Safety Score components
+    ├── confusion_matrices_4label.json  Full 4×4 confusion matrices for all 9 systems
     ├── overrefusal_analysis.json
     ├── bootstrap_mcnemar_results.json
     └── ablation_results_v3.json

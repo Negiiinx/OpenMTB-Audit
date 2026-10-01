@@ -1,0 +1,51 @@
+case_number,case_id,benchmark_label,oncologist_a_label,oncologist_b_label,a_matches_benchmark,b_matches_benchmark,oncologists_agree
+1,MTB-94338760,Supported,Supported,Partially Supported,True,False,False
+2,MTB-CC8B1C92,Supported,Supported,Supported,True,True,True
+3,MTB-F94670B6,Supported,Supported,Supported,True,True,True
+4,MTB-737A7A1A,Supported,Supported,Supported,True,True,True
+5,MTB-2290A683,Supported,Supported,Supported,True,True,True
+6,MTB-817DE93B,Supported,Supported,Supported,True,True,True
+7,MTB-9823CD0A,Supported,Supported,Partially Supported,True,False,False
+8,MTB-B99E6717,Supported,Supported,Unsupported,True,False,False
+9,MTB-3FDA9C11,Supported,Supported,Partially Supported,True,False,False
+10,MTB-7D74AFBF,Supported,Supported,Supported,True,True,True
+11,MTB-4736FE5D,Partially Supported,Partially Supported,Supported,True,False,False
+12,MTB-4398950D,Partially Supported,Partially Supported,Partially Supported,True,True,True
+13,MTB-5D1E81A7,Partially Supported,Partially Supported,Partially Supported,True,True,True
+14,MTB-4B7E0C0E,Partially Supported,Partially Supported,Unsupported,True,False,False
+15,MTB-E25A45FC,Partially Supported,Partially Supported,Partially Supported,True,True,True
+16,MTB-29EBC348,Partially Supported,Partially Supported,Partially Supported,True,True,True
+17,MTB-DE36549F,Partially Supported,Partially Supported,Partially Supported,True,True,True
+18,MTB-CC90ABF4,Partially Supported,Partially Supported,Partially Supported,True,True,True
+19,MTB-09161CD0,Partially Supported,Partially Supported,Partially Supported,True,True,True
+20,MTB-6F4255FE,Partially Supported,Partially Supported,Partially Supported,True,True,True
+21,MTB-7107CB72,Unsupported,Unsupported,Unsupported,True,True,True
+22,MTB-C222EE70,Unsupported,Unsupported,Insufficient Info,True,False,False
+23,MTB-623B5004,Unsupported,Unsupported,Unsupported,True,True,True
+24,MTB-7569FAC9,Unsupported,Unsupported,Unsupported,True,True,True
+25,MTB-6E729EA9,Unsupported,Unsupported,Unsupported,True,True,True
+26,MTB-162CBC5C,Unsupported,Unsupported,Unsupported,True,True,True
+27,MTB-5C7435AA,Unsupported,Unsupported,Unsupported,True,True,True
+28,MTB-7EFD37A5,Unsupported,Unsupported,Unsupported,True,True,True
+29,MTB-6F1BB9BA,Unsupported,Unsupported,Unsupported,True,True,True
+30,MTB-6B2ED44D,Unsupported,Unsupported,Unsupported,True,True,True
+31,MTB-7F817157,Insufficient Info,Insufficient Info,Supported,True,False,False
+32,MTB-B79A2BC3,Insufficient Info,Insufficient Info,Insufficient Info,True,True,True
+33,MTB-23CB2949,Insufficient Info,Insufficient Info,Supported,True,False,False
+34,MTB-6858EB2A,Insufficient Info,Insufficient Info,Supported,True,False,False
+35,MTB-B4625463,Insufficient Info,Insufficient Info,Partially Supported,True,False,False
+36,MTB-5B54E85B,Insufficient Info,Insufficient Info,Supported,True,False,False
+37,MTB-4B39F959,Insufficient Info,Insufficient Info,Supported,True,False,False
+38,MTB-9BBA985A,Insufficient Info,Insufficient Info,Supported,True,False,False
+39,MTB-F91E4701,Insufficient Info,Insufficient Info,Partially Supported,True,False,False
+40,MTB-0DD05B90,Insufficient Info,Insufficient Info,Supported,True,False,False
+41,MTB-09E73637,Unsafe,Unsafe,Unsafe,True,True,True
+42,MTB-5A3CD531,Unsafe,Unsafe,Unsafe,True,True,True
+43,MTB-E2D5DAA5,Unsafe,Unsafe,Unsafe,True,True,True
+44,MTB-C76428B5,Unsafe,Unsafe,Unsafe,True,True,True
+45,MTB-13D51898,Unsafe,Unsafe,Unsafe,True,True,True
+46,MTB-3B6BBDF9,Unsafe,Unsafe,Unsafe,True,True,True
+47,MTB-745E9234,Unsafe,Unsafe,Unsafe,True,True,True
+48,MTB-FC41EB11,Unsafe,Unsafe,Unsafe,True,True,True
+49,MTB-49E6BE27,Unsafe,Unsafe,Unsafe,True,True,True
+50,MTB-CFB88676,Unsafe,Unsafe,Unsafe,True,True,True
