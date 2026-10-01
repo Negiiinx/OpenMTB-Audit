@@ -56,7 +56,7 @@ OpenMTB-Audit/
 └── results/
     ├── agent_predictions_v3.json
     ├── evaluation_results_4label.json  Per-system Safety Score components
-    ├── confusion_matrices_4label.json  Full 4×4 confusion matrices for all 9 systems
+    ├── confusion_matrices_4label.json  Verified 4×4 confusion matrix for MTB-AuditAgent
     ├── overrefusal_analysis.json
     ├── bootstrap_mcnemar_results.json
     └── ablation_results_v3.json
