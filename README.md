@@ -45,6 +45,11 @@ OpenMTB-Audit/
 │   │   └── evaluator.py              Safety Score and all evaluation metrics
 │   ├── baselines/
 │   │   └── simulated_baselines.py    Eight LLM baseline configurations
+│   ├── prompts/
+│   │   ├── base_llm_prompt.txt       System prompt for Base LLM configuration
+│   │   ├── simple_rag_prompt.txt     System prompt for Simple RAG configuration
+│   │   ├── rag_ev_prompt.txt         7-step verification prompt for RAG+EV
+│   │   └── prompt_checklist.txt      6-step checklist prompt for Prompt-Checklist
 │   ├── evidence_kb.py                15 NSCLC molecular profile definitions
 │   └── retrieval/                    Data retrieval clients
 └── results/
@@ -130,6 +135,21 @@ python src/evaluation/evaluator.py \
 **Text-only experiment (profile-key removal):** Use `benchmark/inputs_text_only.jsonl`, which removes the `profile_key` field and requires MTB-AuditAgent to infer the molecular alteration from the free-text case description.
 
 **Withheld-profile experiment (knowledge-base ablation):** Remove five specified molecular profiles from the inference knowledge base and evaluate on the 165 affected cases. This tests behavior when evidence is unavailable; MTB-AuditAgent conservatively reclassifies affected cases as Insufficient Information rather than issuing unsupported judgments.
+
+---
+
+## LLM Baseline Prompts
+
+All prompt templates used for the eight LLM baseline configurations are in [`src/prompts/`](src/prompts/):
+
+| File | Configuration | Description |
+|------|---------------|-------------|
+| [`base_llm_prompt.txt`](src/prompts/base_llm_prompt.txt) | Base LLM | Direct classification with no retrieval |
+| [`simple_rag_prompt.txt`](src/prompts/simple_rag_prompt.txt) | Simple RAG | Same prompt with CIViC/FDA evidence injected |
+| [`rag_ev_prompt.txt`](src/prompts/rag_ev_prompt.txt) | RAG+EV | 7-step explicit verification with retrieved evidence |
+| [`prompt_checklist.txt`](src/prompts/prompt_checklist.txt) | Prompt-Checklist | 6-step structured checklist (no retrieval) |
+
+Each prompt was used with `gpt-4o-2024-08-06` and `gpt-4o-mini-2024-07-18` at `temperature=0`, `max_tokens=512`, yielding the eight baseline configurations reported in the paper.
 
 ---
 
